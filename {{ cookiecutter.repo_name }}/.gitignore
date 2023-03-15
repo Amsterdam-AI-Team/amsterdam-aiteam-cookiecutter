@@ -1,0 +1,16 @@
+# bytecode stuffs
+__pycache__/
+*.py[cod]
+
+# jupyter stuffs
+*/.ipynb_checkpoints/*
+
+# env stuffs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# other
+.idea/*
