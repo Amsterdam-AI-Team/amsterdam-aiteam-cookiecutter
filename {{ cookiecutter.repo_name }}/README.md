@@ -2,7 +2,7 @@
 
 {{cookiecutter.description}}
 
-TODO add some additional information here on the purpose of the project
+## Background
 
 ## Folder Structure
 
@@ -12,18 +12,6 @@ TODO add some additional information here on the purpose of the project
 * [`tests`](./tests) Test example
 * [`media`](./media): Folder containing media files (icons, video)
 * ...
-
-OR
-
-Use something like `tree` to include the overall structure with preferred level of detail (`-L 2` or `-d` or `-a`...)
-```buildoutcfg
-├── media --> you can still add comments and descriptions in this tree
-│   └── examples
-├── resources --> a lot of useful links here
-├── scripts
-├── src --
-└── tests
-```
 
 ## Installation 
 
@@ -52,25 +40,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-TODO describe here how people can use your code, for example by listing chosen parameters like this:
-
-|Argument | Type or Action | Description | Default |
-|---|:---:|:---:|:---:|
-|`--batch_size`| int| `Batch size.`|  32|
-|`--device`| str| `Training device, cpu or cuda:0.`| `cpu`|
-|`--early-stopping`|  `store_true`| `Early stopping for training of sparse transformer.`| True|
-|`--epochs`| int| `Number of epochs.`| 21|
-|`--input_size`|  int| `Input size for model, i.e. the concatenation length of te, se and target.`| 99|
-|`--loss`|  str|  `Type of loss to be used during training. Options: RMSE, MAE.`|`RMSE`|
-|`--lr`|  float| `Learning rate.`| 1e-3|
-|`--train_ratio`|  float| `Percentage of the training set.`| 0.7|
-|...|...|...|...|
-
 ## How it works
 
-TODO decide whether or not to keep this optional section
-
-Can be divided in subsections: 
+Can be divided in subsections:
 
 ### input
 ### algorithm
@@ -81,10 +53,6 @@ OR
 ### training
 ### prediction
 ### evaluation
-
-## Citing our work
-
-TODO decide whether or not to keep this optional section
 
 ## Contributing
 

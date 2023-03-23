@@ -7,14 +7,6 @@ A [cookiecutter](https://www.cookiecutter.io/) template maintained by the AI Tea
 * [`{{ cookiecutter.repo_name }}`](./{{%20cookiecutter.repo_name%20}}): the folder used for project creation
 * [`cookiecutter.json`](./cookiecutter.json): cookiecutter parameters and default values
 
-OR
-
-Use something like `tree` to include the overall structure with preferred level of detail (`-L 2` or `-d` or `-a`...)
-```buildoutcfg
-├── cookiecutter.json            <- cookiecutter parameters and default values
-└── {{ cookiecutter.repo_name }} <- the folder used for project creation
-```
-
 ## Installation
 ```bash
 git clone https://github.com/Amsterdam-AI-Team/amsterdam_aiteam_cookiecutter.git
