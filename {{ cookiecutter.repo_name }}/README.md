@@ -52,8 +52,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-TODO describe here how people can use your code
-For example by listing chosen parameters like this:
+TODO describe here how people can use your code, for example by listing chosen parameters like this:
 
 |Argument | Type or Action | Description | Default |
 |---|:---:|:---:|:---:|
@@ -70,6 +69,7 @@ For example by listing chosen parameters like this:
 ## How it works
 
 TODO decide whether or not to keep this optional section
+
 Can be divided in subsections: 
 
 ### input
@@ -84,7 +84,7 @@ OR
 
 ## Contributing
 
-Feel free to help out! Open an issue, submit a PR or [contact us](https://amsterdamintelligence.com/contact/)
+Feel free to help out! Open an issue, submit a PR or [contact us](https://amsterdamintelligence.com/contact/).
 
 ## Acknowledgements
 
