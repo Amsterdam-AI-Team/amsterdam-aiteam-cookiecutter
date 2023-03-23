@@ -82,6 +82,10 @@ OR
 ### prediction
 ### evaluation
 
+## Citing our work
+
+TODO decide whether or not to keep this optional section
+
 ## Contributing
 
 Feel free to help out! Open an issue, submit a PR or [contact us](https://amsterdamintelligence.com/contact/).
