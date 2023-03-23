@@ -73,3 +73,8 @@ This repository was created in collaboration with [Amsterdam Intelligence](https
 
 {% endif %}
 
+## License 
+
+TODO choose a license from [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
+
