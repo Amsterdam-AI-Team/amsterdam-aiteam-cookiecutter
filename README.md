@@ -38,7 +38,7 @@ We also owe special thanks to fellow data scientists and developers from the Cit
 
 ## Contributing
 
-Feel free to help out! Open an issue, submit a PR or [contact us](https://amsterdamintelligence.com/contact/).
+Feel free to help out! [Open an issue](https://github.com/Amsterdam-AI-Team/amsterdam_aiteam_cookiecutter/issues), submit a [PR](https://github.com/Amsterdam-AI-Team/amsterdam_aiteam_cookiecutter/pulls) or [contact us](https://amsterdamintelligence.com/contact/).
 
 ## License 
 
