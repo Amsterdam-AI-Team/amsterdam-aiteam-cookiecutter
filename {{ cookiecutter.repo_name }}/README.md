@@ -56,7 +56,16 @@ OR
 
 ## Contributing
 
-Feel free to help out! Open an issue, submit a PR or [contact us](https://amsterdamintelligence.com/contact/).
+{% if cookiecutter.team == 'AI' -%}
+
+Feel free to help out! [Open an issue](https://github.com/Amsterdam-AI-Team/{{ cookiecutter.repo_name }}/issues), submit a [PR](https://github.com/Amsterdam-AI-Team/{{ cookiecutter.repo_name }}/pulls) or [contact us](https://amsterdamintelligence.com/contact/).
+
+{% elif cookiecutter.team == 'intern' %}
+
+Feel free to help out! [Open an issue](https://github.com/AmsterdamInternships/{{ cookiecutter.repo_name }}/issues), submit a [PR](https://github.com/AmsterdamInternships/{{ cookiecutter.repo_name }}/pulls)  or [contact us](https://amsterdamintelligence.com/contact/).
+
+{% endif %}
+
 
 ## Acknowledgements
 
