@@ -70,4 +70,4 @@ This repository was created in collaboration with [Amsterdam Intelligence](https
 
 ## License 
 
-TODO choose a license from [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+Distributed under the European Union Public License 1.2 (EUPL-1.2).
