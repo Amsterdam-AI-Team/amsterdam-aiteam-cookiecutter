@@ -42,4 +42,4 @@ Feel free to help out! [Open an issue](https://github.com/Amsterdam-AI-Team/amst
 
 ## License 
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the European Union Public License 1.2 (EUPL-1.2).

@@ -79,4 +79,4 @@ This repository was created in collaboration with [Amsterdam Intelligence](https
 
 ## License 
 
-Distributed under the European Union Public License 1.2 (EUPL-1.2).
+This project is licensed under the terms of the European Union Public License 1.2 (EUPL-1.2).
