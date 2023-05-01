@@ -1,0 +1,4 @@
+flake8==6.0.0
+flake8-docstrings==1.7.0
+mccabe==0.7.0
+pep8-naming==0.13.3
