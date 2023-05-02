@@ -8,8 +8,12 @@ exclude =
     *.py
 
 extend-ignore =
+    # D100 Missing docstring in public module
+    D100,
     # D103 Missing docstring in public function
     D103,
+    # D07 Missing docstring in __init__
+    D107
     # D205 1 blank line required between summary line and description
     D205,
     # D400 First line should end with a period
