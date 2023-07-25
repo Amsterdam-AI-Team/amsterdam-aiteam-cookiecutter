@@ -2,5 +2,9 @@
     "project_name": "Very Fancy Project Title",
     "repo_name": "{{ cookiecutter.project_name.replace(' ', '-')|lower }}",
     "description": "A short explanation of what this repository is depending on the target audience...",
-    "team": ["AI", "intern"]
+    "team": ["AI", "intern"],
+    "_copy_without_render": [
+        "*.github/workflows/flake_workflow.yml"
+    ]
+
 }
