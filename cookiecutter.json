@@ -1,6 +1,6 @@
 {
     "project_name": "Very Fancy Project Title",
-    "repo_name": "{{ cookiecutter.project_name.replace(' ', '') }}",
+    "repo_name": "{{ cookiecutter.project_name.replace(' ', '-')|lower }}",
     "description": "A short explanation of what this repository is depending on the target audience...",
     "team": ["AI", "intern"]
 }
