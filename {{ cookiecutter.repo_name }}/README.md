@@ -34,9 +34,20 @@ git clone https://github.com/AmsterdamInternships/{{ cookiecutter.repo_name }}.g
 
 2) Install all dependencies:
     
+{% if cookiecutter.env_management == 'pip' %}
+
 ```bash
 pip install -r requirements.txt
 ```
+
+{% elif cookiecutter.env_management == 'conda' %}
+
+```bash
+conda env create -f environment.yml
+```
+
+{% endif %}
+
 
 ## Usage
 
