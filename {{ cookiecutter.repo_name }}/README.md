@@ -48,6 +48,7 @@ conda env create -f environment.yml
 
 {% endif %}
 
+The code has been tested with Python x.x on Linux/MacOS/Windows. 
 
 ## Usage
 
