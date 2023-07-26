@@ -20,13 +20,13 @@ cookiecutter https://github.com/Amsterdam-AI-Team/amsterdam_aiteam_cookiecutter
 
 You will be prompted to provide the following parameters:
 
-| Parameter      | Description                                                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `project_name` | The name of the project to be displayed as a header of the readme                                                                                                       |
-| `repo_name`    | The name of the repository. It will be used as name of the root folder                                                                                                  |
-| `description`  | Short description of the repository to be used in the readme                                                                                                            |
-| `team`         | "AI" or "intern" - will be used to fill in the clone step in the installation section with the correct github organization (Amsterdam-AI-Team or Amsterdam-Internships) |
-
+| Parameter       | Description                                                                                                                                                             |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `project_name`  | The name of the project to be displayed as a header of the readme                                                                                                       |
+| `repo_name`     | The name of the repository. It will be used as name of the root folder                                                                                                  |
+| `description`   | Short description of the repository to be used in the readme                                                                                                            |
+| `team`          | "AI" or "intern" - will be used to fill in the clone step in the installation section with the correct github organization (Amsterdam-AI-Team or Amsterdam-Internships) |
+| `env_management`| "pip" or "conda" - will be used to fill in the packages step in the installation section                                                                                |
 
 ## Acknowledgements
 
