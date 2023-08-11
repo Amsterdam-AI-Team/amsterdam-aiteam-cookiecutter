@@ -6,11 +6,13 @@
 
 ## Folder Structure
 
-* [`resources`](./resources): Random nice resources, e.g. [`useful links`](./resources/README.md)
-* [`src`](./src): Folder for all source files specific to this project
-* [`scripts`](./scripts): Folder with example scripts for performing different tasks (could serve as usage documentation)
-* [`tests`](./tests) Test example
-* [`media`](./media): Folder containing media files (icons, video)
+* [`data`](./data): Sample data for demo purposes
+* [`docs`](./docs): If main [README.md](./README.md) is not enough
+* [`notebooks`](./notebooks): Jupyter notebooks / tutorials
+* [`res`](./res): Relevant resources, e.g. [`images`](./res/images/) for the documentation
+* [`scripts`](./scripts): Scripts for automating tasks
+* [`src`](./src): All sourcecode files specific to this project
+* [`tests`](./tests) Unit tests
 * ...
 
 ## Installation 
