@@ -28,6 +28,8 @@ You will be prompted to provide the following parameters:
 | `team`          | "AI" or "intern" - will be used to fill in the clone step in the installation section with the correct github organization (Amsterdam-AI-Team or Amsterdam-Internships) |
 | `env_management`| "pip" or "conda" - will be used to fill in the packages step in the installation section                                                                                |
 
+The cookiecutter will generate several default files and folders. Simply delete the folders you don't need (_also from the README_) and edit the default requirements.txt or environment.yml to suit your needs. 
+
 ## Acknowledgements
 
 This repository was created by [Amsterdam Intelligence](https://amsterdamintelligence.com/) for the City of Amsterdam.
