@@ -204,6 +204,5 @@ cython_debug/
 
 # AzureML
 *.amlignore
-*.amlignore.amltmp
+*.amltmp
 *.ipynb_aml_checkpoints
-*.ipynb.amltmp
