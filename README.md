@@ -28,7 +28,12 @@ You will be prompted to provide the following parameters:
 | `team`          | "AI" or "intern" - will be used to fill in the clone step in the installation section with the correct github organization (Amsterdam-AI-Team or Amsterdam-Internships) |
 | `env_management`| "pip" or "conda" - will be used to fill in the packages step in the installation section                                                                                |
 
-The cookiecutter will generate several default files and folders. Simply delete the folders you don't need (_also from the README_) and edit the default requirements.txt or environment.yml to suit your needs. 
+The cookiecutter will generate several default files and folders. Simply delete the folders you don't need (_also from the README_) and edit the default requirements.txt or environment.yml to suit your needs.
+
+As a final step, make sure the appropriate branch protection rules are set-up on github:
+* Enabled for _main_ and _dev_ by default
+* For interns / playground repos: _dev_ may be unprotected
+* Review on PR needed by at least one team member
 
 ## Acknowledgements
 
