@@ -1,1 +1,1 @@
-# Paths when running locally
+"""Paths when running locally"""

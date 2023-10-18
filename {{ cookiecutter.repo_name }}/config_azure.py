@@ -1,1 +1,1 @@
-# Paths when running on Azure (AML)
+"""Paths when running on Azure (AML)"""

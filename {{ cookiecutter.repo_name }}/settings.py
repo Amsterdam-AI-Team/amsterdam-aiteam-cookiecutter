@@ -1,1 +1,1 @@
-# Settings that or not paths or secrets
+"""Settings that or not paths or secrets"""
