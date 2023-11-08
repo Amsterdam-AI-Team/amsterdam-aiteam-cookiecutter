@@ -206,3 +206,6 @@ cython_debug/
 *.amlignore
 *.amltmp
 *.ipynb_aml_checkpoints
+
+# Secrets
+my_secrets.py
